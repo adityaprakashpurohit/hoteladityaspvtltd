@@ -1,0 +1,6 @@
+{
+  "name": "AURELIA — Haute Cuisine & Interactive Menu",
+  "description": "A luxury dining establishment and editorial interactive 3D menu book experience with table reservations and culinary storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
