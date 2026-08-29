@@ -34,7 +34,10 @@ export default function Footer() {
         </div>
       </div>
       <div className="max-w-7xl mx-auto border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between text-xs text-gray-500 font-light tracking-wide">
-        <p>© 2026 Aurelia Grand Hotel. All rights reserved.</p>
+        <div className="flex flex-col md:flex-row gap-2 md:gap-6 items-start md:items-center">
+          <p>© 2026 Aurelia Grand Hotel. All rights reserved.</p>
+          <p className="flex items-center gap-1">Made with <span className="text-red-500">♥</span> in India</p>
+        </div>
         <div className="flex gap-4 mt-4 md:mt-0">
           <span>Privacy Policy</span>
           <span>Terms & Conditions</span>
